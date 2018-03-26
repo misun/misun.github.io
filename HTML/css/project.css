@@ -1,0 +1,20 @@
+.project1{
+  background-image: url('../img/project/gandalp.jpg');
+  background-size: cover;
+  opacity: 0.5;
+}
+
+.project2{
+  background-image: url('../img/project/bakku-runner.jpg');
+  background-size: cover;
+  opacity: 0.5;
+}
+
+i[class^="devicon"]{
+  font-size: 50px;
+  margin: 10px 0 10px 20px;
+}
+
+ul{
+  list-style: none;
+}
