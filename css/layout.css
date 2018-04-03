@@ -338,7 +338,8 @@ fieldset[disabled] .btn-theme {
   background: #fafafa;
   padding-top: 220px;
   background-image: url('../img/code.jpeg');
-  background-size: contain;
+  background-size: cover;
+  background-position: center
 }
 
 @media (max-width: 768px) {
