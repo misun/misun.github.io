@@ -982,6 +982,7 @@ h4 {
 .full-width {
     width: 300px;
     height: auto;
+    border-radius: 50%;
 }
 
 /*--------------------------------------------------
